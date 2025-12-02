@@ -1,0 +1,36 @@
+authors:
+- affiliation: ECOTEC University
+  name: Jesus Rafael Hechavarria-Hernandez
+- affiliation: ECOTEC University
+  name: Kelvin Sanoja
+- affiliation: ECOTEC University
+  name: Rafael Luque
+columns:
+  Alkalinity: Alkalinity in mg/L as CaCO3.
+  BOD5: Biochemical oxygen demand (5-day) in mg/L.
+  COD: Chemical oxygen demand in mg/L.
+  DO: Dissolved oxygen in mg/L.
+  Date: Sampling date in YYYY-MM-DD format.
+  H2S: Hydrogen sulfide concentration in mg/L.
+  NH4: Ammonium concentration in mg/L.
+  NO2: Nitrite concentration in mg/L.
+  NO3: Nitrate concentration in mg/L.
+  Phase: 'Experimental phase: ''Baseline'', ''Treatment'', or ''Recovery''.'
+  QAQC: Quality assurance/quality control flags (e.g., 'OK', 'LOD', 'duplicate').
+  Rep: Replicate number (1–3).
+  Salinity: Practical salinity units (PSU).
+  Station: Sampling station code (S1–S5).
+  TKN: Total Kjeldahl nitrogen in mg/L.
+description: This dataset contains 176 high-resolution observations of water quality
+  variables collected from a five-station estuarine monitoring program near ECOTEC
+  University (Guayaquil, Ecuador) between January 2024 and June 2025. It supports
+  microbial bioremediation assessment using spatially distributed disturbance–recovery
+  interventions.
+keywords:
+- microbial bioremediation
+- water quality
+- estuary
+- ammonium removal
+- ecological monitoring
+license: CC-BY-4.0
+title: ECOTEC Estuary Water Quality and Microbial Bioremediation Dataset (2024–2025)
