@@ -5,7 +5,7 @@ This repository contains data and scripts used in the study of microbial bioreme
 
 ## Contents
 
-- ECOTEC_Estuary_WQ_MBio_2024-2025.csv: Raw water quality dataset with 176 observations across 14 variables.
+- ECOTEC_Estuary_WQ_MBio_2024-2025.csv: Raw water quality dataset with 176 observations across 13 variables.
 - metadata.yaml: Variable definitions, units, QA/QC codes, and geospatial metadata.
 - ECOTEC_E_WQ_MB_Analysis_v1_0.py: Python script for data preprocessing, efficiency computation, and visualization.
 
@@ -27,9 +27,8 @@ Python 3.10+ and the libraries `pandas`, `matplotlib`, and `statsmodels` are req
 
 ## Citation
 
-Hechavarria-Hernandez, J.R., Sanoja-Lopez, K., & Luque, R. (2025). ECOTEC Estuary Water Quality and Microbial Bioremediation Dataset (2024–2025). Zenodo. DOI: https://doi.org/10.5281/zenodo.17795820
+Hechavarria-Hernandez, J.R., Sanoja-Lopez, K., & Luque, R. (2025). ECOTEC Estuary Water Quality and Microbial Bioremediation Dataset (2024–2025). Zenodo. DOI: Hechavarria-Hernandez, J.R., Sanoja-Lopez, K., & Luque, R. (2025). ECOTEC Estuary Water Quality and Microbial Bioremediation Dataset (2024–2025). Zenodo. DOI: https://doi.org/10.5281/zenodo.17795820
 
 ## License
 
 This dataset is made available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
