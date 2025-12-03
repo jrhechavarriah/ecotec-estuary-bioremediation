@@ -27,8 +27,9 @@ Python 3.10+ and the libraries `pandas`, `matplotlib`, and `statsmodels` are req
 
 ## Citation
 
-Hechavarria-Hernandez, J.R., Sanoja-Lopez, K., & Luque, R. (2025). ECOTEC Estuary Water Quality and Microbial Bioremediation Dataset (2024–2025). Zenodo. DOI: to be added upon upload.
+Hechavarria-Hernandez, J.R., Sanoja-Lopez, K., & Luque, R. (2025). ECOTEC Estuary Water Quality and Microbial Bioremediation Dataset (2024–2025). Zenodo. DOI: https://doi.org/10.5281/zenodo.17795820
 
 ## License
 
 This dataset is made available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
